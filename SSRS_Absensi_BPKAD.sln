@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRS_Absensi_BPKAD", "SSRS_Absensi_BPKAD\SSRS_Absensi_BPKAD.rptproj", "{2DD3B260-27E3-4CDE-ABB5-8B7BCD929249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DD3B260-27E3-4CDE-ABB5-8B7BCD929249}.Debug|Default.ActiveCfg = Debug
+		{2DD3B260-27E3-4CDE-ABB5-8B7BCD929249}.Debug|Default.Build.0 = Debug
+		{2DD3B260-27E3-4CDE-ABB5-8B7BCD929249}.Debug|Default.Deploy.0 = Debug
+		{2DD3B260-27E3-4CDE-ABB5-8B7BCD929249}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{2DD3B260-27E3-4CDE-ABB5-8B7BCD929249}.DebugLocal|Default.Build.0 = DebugLocal
+		{2DD3B260-27E3-4CDE-ABB5-8B7BCD929249}.Release|Default.ActiveCfg = Release
+		{2DD3B260-27E3-4CDE-ABB5-8B7BCD929249}.Release|Default.Build.0 = Release
+		{2DD3B260-27E3-4CDE-ABB5-8B7BCD929249}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05490206-C1C1-4AA8-AB09-278A826186F6}
+	EndGlobalSection
+EndGlobal
